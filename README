@@ -1,0 +1,9 @@
+Contributors:
+  Kai Krakow        - Implementation
+
+Kudos go to:
+  Ryan Grove        - for providing http://github.com/rgrove/jsmin
+                      and http://github.com/rgrove/cssmin
+  Douglas Crockford - for providing the original JSMin implementation
+
+This file is still in progress...
