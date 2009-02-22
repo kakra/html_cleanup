@@ -1,6 +1,6 @@
 author: Kai Krakow
 summary: Provide cleanup of HTML code by minifying style and script blocks and reducing redundant HTML whitespace
-homepage: http://kaishome.de
+homepage: http://wiki.github.com/kakra/html_cleanup
 plugin: git://github.com/kakra/html_cleanup.git
 license: MIT
 version: 0.1
